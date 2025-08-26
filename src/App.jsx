@@ -57,7 +57,7 @@ function App() {
       <div className='container'>
         <div className='row'>
           <div className='col'>
-            <h6>The Next Dev</h6>
+            <h6>The Lucas Dev</h6>
             <h1>
               New <br />
               Series 7 <br />
@@ -68,7 +68,7 @@ function App() {
               style.
               <br />
               <br />
-              Copyright © Wazana - All rights reserved.
+              Copyright © Lucas - All rights reserved.
             </p>
             <div className='info-container'>
               <h5 id='price'>{price}</h5>
